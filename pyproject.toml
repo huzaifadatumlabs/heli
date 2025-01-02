@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "heli-package"
+name = "heli-package_2.0_huzaifa"
 version = "0.1.0"
 description = ""
 authors = ["Huzaifa Naeem <huzaifa.naeem@datumlabs.io>"]
